@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://media4.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif" width="25px">, I'm <a href="https://aditya28sarin.github.io">Aditya!</a></h1>
+<h1 align="center"><img src="https://c.tenor.com/kjVHIVqP6pAAAAAC/hello-rainbow-text.gif" width="25px">, I am <a href="https://aditya28sarin.github.io">Akarsh Singh!</a></h1>
 
 I'm an incoming Computer Science Graduate student at Virginia Tech. I am interested in Web development, App development and Machine Learning. 
 
