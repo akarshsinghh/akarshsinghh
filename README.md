@@ -4,7 +4,14 @@ I'm currently a Data Analytics Graduate student at Northeastern University. I am
 
 
 ## Languages 
-Python | C | C++ | Java | JavaScript | HTML | CSS | R  
+* Python 
+*  C 
+*  C++ 
+*  Java 
+*  JavaScript 
+*  HTML 
+*  CSS 
+*  R  
 ## Development tools and frameworks
 <span><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
