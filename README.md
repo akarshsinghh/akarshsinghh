@@ -38,7 +38,7 @@ I'm currently a Data Analytics Graduate student at Northeastern University. I am
 <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username={akarshsinghh}&theme=blue-green
 
 ### Let's Connect 🔗
 <a href="https://www.linkedin.com/in/aditya28sarin/">
