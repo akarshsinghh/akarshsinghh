@@ -52,5 +52,5 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={akarshsinghh}&th
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshsinghh&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akarshsinghh&show_icons=true)
 
