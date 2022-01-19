@@ -1,21 +1,10 @@
-<h1 align="center"><img src="https://c.tenor.com/kjVHIVqP6pAAAAAC/hello-rainbow-text.gif" width="50px">, I am <a href="https://aditya28sarin.github.io">Akarsh Singh!</a></h1>
+<h1 align="center"><img src="https://c.tenor.com/kjVHIVqP6pAAAAAC/hello-rainbow-text.gif" width="100px">, I am <a href="https://aditya28sarin.github.io">Akarsh Singh!</a></h1>
 
-I'm an incoming Computer Science Graduate student at Virginia Tech. I am interested in Web development, App development and Machine Learning. 
+I'm currently a Data Analytics Graduate student at Northeastern University. I am a passionate researcher who seamlessly enjoys Sports Analytics. I am also excited by Machine Learning, Data Science, UX Research, and Bayesian Statistics 
 
-
-## ⚡ GitHub Stats
-
-
-
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya28sarin)](https://github.com/aditya28sarin/github-readme-stats)
 
 ## Languages 
-<span><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></span>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/dart.png"/>
-
+Python | C | C++ | Java | JavaScript | HTML | CSS | R  
 ## Development tools and frameworks
 <span><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
