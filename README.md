@@ -28,13 +28,12 @@ I'm currently a Data Analytics Graduate student at Northeastern University. I am
 
 
 ## Others
-<span><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
-<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
-<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<span><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></span>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={akarshsinghh}&theme=blue-green
 
