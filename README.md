@@ -19,7 +19,7 @@ I'm currently a Data Analytics Graduate student at Northeastern University. I am
 <span><img src="https://img.icons8.com/color/2x/tableau-software.png" width="50" height="50"/></span>
 <img src="https://img.icons8.com/fluency/2x/jupyter.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/2x/tensorflow.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/2x/microsoft-excel-2019.png" width="50" height="50/>
+<img src="https://img.icons8.com/color/2x/microsoft-excel-2019.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
