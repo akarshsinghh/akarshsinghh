@@ -20,11 +20,8 @@ I'm currently a Data Analytics Graduate student at Northeastern University. I am
 <img src="https://img.icons8.com/fluency/2x/jupyter.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/2x/tensorflow.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/2x/microsoft-excel-2019.png" width="50" height="50"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/48/000000/redux.png"/>
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/fluency/2x/spyder-ide.png" width="50" height="50"/>
+
 
 ## Databases
 <span><img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/></span>
