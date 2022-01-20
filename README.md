@@ -2,6 +2,8 @@
 
 I'm currently a Data Analytics Graduate student at Northeastern University. I am a passionate researcher who seamlessly enjoys working on Sports Analytics Projects. I am also excited by Machine Learning, Data Science, UX Research, and Bayesian Statistics 
 
+Curious and Fascinated to Learn About Blockchain Appreciation (Especially on The <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> Platform)
+
 
 ## Languages 
 <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
