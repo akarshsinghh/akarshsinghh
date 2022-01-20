@@ -2,8 +2,6 @@
 
 I'm currently a Data Analytics Graduate student at Northeastern University. I am a passionate researcher who seamlessly enjoys working on Sports Analytics Projects. I am also excited by Machine Learning, Data Science, UX Research, and Bayesian Statistics 
 
-Curious and Fascinated to Learn About Blockchain-Based Applications (Especially on The <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> Platform)
-
 Willing to Expand My Sphere of Knowledge by Learning About Big Data Tools and Cloud Computing Platforms
 
 Curious and Fascinated to Learn About Blockchain-Based Applications (Especially on The <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> Platform)
@@ -45,9 +43,7 @@ Curious and Fascinated to Learn About Blockchain-Based Applications (Especially 
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={akarshsinghh}&theme=blue-green
 
-### Let's Connect @ <a href="https://www.linkedin.com/in/akarshsinghh/">
-  <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
+### Let's Connect @ <a href="https://www.linkedin.com/in/akarshsinghh/">   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> </a>
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akarshsinghh&show_icons=true)
