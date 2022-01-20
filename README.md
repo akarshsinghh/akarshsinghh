@@ -14,7 +14,7 @@ I'm currently a Data Analytics Graduate student at Northeastern University. I am
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white ">
 
 
-## Development tools and frameworks
+## Tools and Databases
 
 <span><img src="https://img.icons8.com/color/2x/tableau-software.png" width="50" height="50"/></span>
 <img src="https://img.icons8.com/fluency/2x/jupyter.png" width="50" height="50"/>
@@ -39,15 +39,10 @@ I'm currently a Data Analytics Graduate student at Northeastern University. I am
 https://github-readme-stats.vercel.app/api/top-langs/?username={akarshsinghh}&theme=blue-green
 
 ### Let's Connect 🔗
-<a href="https://www.linkedin.com/in/aditya28sarin/">
+<a href="https://www.linkedin.com/in/akarshsinghh/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/AdityaSarin14">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:aditya28sarin@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akarshsinghh&show_icons=true)
 
