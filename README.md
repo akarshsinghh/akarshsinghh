@@ -6,6 +6,8 @@ Willing to Expand My Sphere of Knowledge by Learning About Big Data Tools and Cl
 
 Curious and Fascinated to Learn About Blockchain-Based Applications (Especially on The <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> Platform)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akarshsinghh&show_icons=true)
+
 
 ## Languages 
 <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
@@ -41,10 +43,9 @@ Curious and Fascinated to Learn About Blockchain-Based Applications (Especially 
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={akarshsinghh}&theme=blue-green
 
 #### Let's Connect --> <a href="https://www.linkedin.com/in/akarshsinghh/">   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> </a>
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akarshsinghh&show_icons=true)
+
 
