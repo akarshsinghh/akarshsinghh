@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://c.tenor.com/kjVHIVqP6pAAAAAC/hello-rainbow-text.gif" width="100px">, I am Akarsh Singh!</h2>
+<h1 align="center"><img src="https://c.tenor.com/kjVHIVqP6pAAAAAC/hello-rainbow-text.gif" width="100px">, I am Akarsh Singh!</h1>
 
 I'm currently a Data Analytics Graduate student at Northeastern University. I am a passionate researcher who seamlessly enjoys working on Sports Analytics Projects. I am also excited by Machine Learning, Data Science, UX Research, and Bayesian Statistics 
 
@@ -43,7 +43,7 @@ Curious and Fascinated to Learn About Blockchain-Based Applications (Especially 
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={akarshsinghh}&theme=blue-green
 
-Let's Connect --> <a href="https://www.linkedin.com/in/akarshsinghh/">   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> </a>
+#### Let's Connect --> <a href="https://www.linkedin.com/in/akarshsinghh/">   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> </a>
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akarshsinghh&show_icons=true)
