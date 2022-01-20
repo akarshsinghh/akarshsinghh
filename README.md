@@ -16,8 +16,8 @@ I'm currently a Data Analytics Graduate student at Northeastern University. I am
 
 ## Development tools and frameworks
 
-<span><img src="https://img.icons8.com/color/2x/tableau-software.png" width="100" height="100"/></span>
-<img src="https://img.icons8.com/fluency/2x/jupyter.png"/>
+<span><img src="https://img.icons8.com/color/2x/tableau-software.png" width="50" height="50"/></span>
+<img src="https://img.icons8.com/fluency/2x/jupyter.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
