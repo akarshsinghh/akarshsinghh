@@ -21,12 +21,11 @@ I'm currently a Data Analytics Graduate student at Northeastern University. I am
 <img src="https://img.icons8.com/color/2x/tensorflow.png" width="50" height="50"/>
 <img src="https://img.icons8.com/color/2x/microsoft-excel-2019.png" width="50" height="50"/>
 <img src="https://img.icons8.com/fluency/2x/spyder-ide.png" width="50" height="50"/>
-
-
-## Databases
 <span><img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/></span>
 <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+
 
 ## Others
 <span><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
