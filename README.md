@@ -6,8 +6,6 @@ Willing to Expand My Sphere of Knowledge by Learning About Big Data Tools and Cl
 
 Curious and Fascinated to Learn About Blockchain-Based Applications (Especially on The <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> Platform)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akarshsinghh&show_icons=true)
-
 
 ## Languages 
 <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
